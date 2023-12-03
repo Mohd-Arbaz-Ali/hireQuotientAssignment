@@ -1,0 +1,23 @@
+.h-5 {
+  height: 25px;
+}
+
+.w-5 {
+  width: 25px;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-end{
+    align-items: flex-end;
+}
+
+.gap-1\.5{
+ gap: 0.375rem;
+}
